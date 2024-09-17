@@ -6,13 +6,13 @@ public class AddressBook {
         buddyInfos = new ArrayList<>();
     }
 
-    void addBuddyInfo(BuddyInfo buddyInfo) {
-        buddyInfos.add(buddyInfo);
-    }
-
-    void removeBuddyInfo(BuddyInfo buddyInfo) {
-        buddyInfos.remove(buddyInfo);
-    }
+//    void addBuddyInfo(BuddyInfo buddyInfo) {
+//        buddyInfos.add(buddyInfo);
+//    }
+//
+//    void removeBuddyInfo(BuddyInfo buddyInfo) {
+//        buddyInfos.remove(buddyInfo);
+//    }
 
     public static void main(String[] args){
         System.out.println("Address Book");
